@@ -1,4 +1,4 @@
-# 💫 About Me: HI! I'm Pranta Nag.
+# 💫 About Me: Hi! I'm Pranta Nag.
 🔭 I’m currently working as a Product Management & Flutter Developer.<br>🌱 I’m currently learning Mobile app development<br>💬 Ask me about<br>⚡ Fun fact
 
 
